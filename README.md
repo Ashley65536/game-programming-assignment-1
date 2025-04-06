@@ -4,4 +4,4 @@ Could not add all scripts to the scripts folder when in the Unity engine for som
 - Rotator.cs
 - Rotator.cs.meta
 
-These files are instead in the **Assets** folder
+These files are instead in the ***Assets*** folder
